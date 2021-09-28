@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - food
+  - obj
+  - inh
+  - Cube
+  - Sphere
+  - Cylinder
   layers:
   - Default
   - TransparentFX
